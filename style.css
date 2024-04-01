@@ -1,0 +1,84 @@
+#title{
+	text-align: center;
+	background-color: black;
+	color: #bbb;
+	padding: 35px;
+	letter-spacing: 2px;
+	font-weight: 500;
+	font-size: 50px;
+}
+
+.box1 h2{
+	float: left;
+	color: rgb(100, 100, 100, 1.0);
+}
+.box1 button{
+	float: right;
+}
+
+.container{
+	margin-top: 30px;
+}
+
+h5{
+	text-align: center;
+	color: red;
+	font-weight: 700;
+	padding-bottom: 20px;
+}
+h6{
+	text-align: center;
+	color: green;
+	font-weight: 700;
+	padding-bottom: 30px;
+}
+
+.td1{
+	font-weight: 500;
+	font-size: 20px;
+}
+
+.td2{
+	font-weight: 500;
+	font-size: 20px;
+}
+
+.td3{
+	font-weight: 500;
+	font-size: 20px;
+}
+
+.td4{
+	font-weight: 500;
+	font-size: 20px;
+}
+
+.td5{
+	font-weight: 500;
+	font-size: 20px;
+}
+.td6{
+	font-weight: 500;
+	font-size: 20px;
+}
+.td7{
+	font-weight: 500;
+	font-size: 20px;
+}
+
+#last_heading{
+	text-align: center;
+	background-color: black;
+	color: #bbb;
+	padding: 35px;
+/*	padding-bottom: 20px;*/
+
+}
+
+.form-group{
+	padding: 10px;
+}
+
+
+
+
